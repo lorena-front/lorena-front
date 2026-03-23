@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Lorena 👋
 
-<!--
-**lorena-front/lorena-front** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Front-end developer in training  
+🔐 Studying Information Security  
+🎨 Interested in UX, interface design and digital accessibility  
 
-Here are some ideas to get you started:
+## 🚀 About me
+- Currently focused on front-end development and web structure  
+- Exploring cybersecurity fundamentals  
+- Building projects to improve practical skills  
+- Interested in creating interfaces that are functional and intuitive  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies
+- HTML  
+- CSS  
+- JavaScript  
+- Git & GitHub  
+
+## 📚 Currently learning
+- Responsive design  
+- Networking fundamentals  
+- Security concepts  
+- Better code organization  
+
+## 🎯 Goals
+- Grow as a developer  
+- Combine design and security knowledge  
+- Build useful and accessible digital experiences  
